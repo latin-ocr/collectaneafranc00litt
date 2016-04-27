@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./collectaneafranc00litt_0005.png"; bbox 0 0 2449 3927; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 289 1589 1995 1776">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 289 1589 1995 1776">
+     <span class='ocr_line' id='line_1_1' title="bbox 940 1589 1319 1649; baseline 0.005 -2"><span class='ocrx_word' id='word_1_1' title='bbox 940 1589 1319 1649; x_wconf 87' lang='lat' dir='ltr'>BRITISH</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 289 1712 1995 1776; baseline 0.001 -3"><span class='ocrx_word' id='word_1_2' title='bbox 289 1712 688 1773; x_wconf 86' lang='lat' dir='ltr'>SOCIETY</span> <span class='ocrx_word' id='word_1_3' title='bbox 751 1712 869 1773; x_wconf 89' lang='lat' dir='ltr'><strong>OF</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 938 1712 1528 1775; x_wconf 83' lang='lat' dir='ltr'>FRANCISCAN</span> <span class='ocrx_word' id='word_1_5' title='bbox 1593 1714 1995 1776; x_wconf 86' lang='lat' dir='ltr'>STUDIES</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1005 1959 1246 2007">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1005 1959 1246 2007">
+     <span class='ocr_line' id='line_1_3' title="bbox 1005 1959 1246 2007; baseline 0 -3"><span class='ocrx_word' id='word_1_6' title='bbox 1005 1959 1158 2007; x_wconf 88' lang='lat' dir='ltr'><strong>VOL.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1200 1959 1246 2004; x_wconf 94' lang='lat' dir='ltr'>V</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
